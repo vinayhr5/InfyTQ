@@ -1,0 +1,195 @@
+My Experience  
+
+I registered for the exam on 19 July 2019 (Friday) for the test which was to be held on 25 July 2019 (Thursday). I studied for the exam on Monday and Tuesday (only two days). My centre for the exam was at UEM, Kolkata.
+Round 1: Online Round
+
+It was an online round consisting of 20 MCQs and two hands-on programming questions. MCQs were from the OOPs concept in Python, Data Structure and Algorithm in Python (basics like Stack and Queue, Binary Search), Database and SQL. And one question was from MongoDB in MCQ Part. The answers were of multiple correct types.
+
+Two hands-on programming questions were easy but the coding was to be done completely in Python 3.
+
+Question 1:
+
+Given a string, find the substring based on following conditions,
+
+    The substring must be the longest one of all the possible substring in the given string.
+    There must not be any repeating characters in the substring.
+    If there is more than one substring satisfying the above two conditions, then print the substring which occurs first.
+    Length of the substring must be minimum 3.
+
+If there is no substring satisfying all the aforementioned conditions then print -1.
+
+Question 2:
+
+Given an array of integers, find the combination of integers forming a sequence which satisfies the below conditions:
+
+        The ith  integer must satisfy the given equation in the sequence
+
+        (1)   \begin{equation*} X[i] = X[i-1] + X[i-2] \end{equation*}
+        The length of the sequence must be maximum possible
+        If there is more than one sequence satisfying above two conditions then print that sequence which contains least integers.
+        In case there is no combination of integers possible then print -1.
+        See the example below:
+
+Example 1:
+If the given integers are 4, 2, 7, 5, 3, 8, 10, 11, 19 then the possible combinations of integers satisfying above conditions are 2, 3, 5, 8 and 3, 8, 11, 19 and hence the output must be 2, 3, 5, 8. Here you cannot form any other combination of integers whose length is greater than 4 and satisfies the given equation.
+Example 2:
+If the given integers are 1,5,6,10 then print -1.
+
+Round 2: HR Interview Round
+
+I was not asked any question which is generally asked in HR Interview like, Tell me about yourself? or Why do you want to join Infosys? or What is your career aspiration? or Where do you see yourself after five years? or even anything related to my hobbies. Below are all the questions which I was asked by the interviewer:
+
+    Tell me about your projects: I had mentioned some projects in the resume so he asked me about what have you done in the projects, not in detail only the overview.
+    Tell me about your content writing: I had mentioned about my Technical Content Writing at GeeksforGeeks in my resume, I gave him an overview of that.
+    On what topics have you been writing?: I mentioned topics like Data Science and Machine Learning, Mathematics, Statistics, etc.
+    What have you written in Statistics?: Absolute frequency and Relative frequency, Stem and Leaf plot I mentioned.
+    Tell me what is absolute frequency and relative frequency: I explained to him both the topics.
+    Give a real-life scenario where we can use absolute frequency and relative frequency: I gave a real-life scenario.
+    Will you work if I changed your field of work? Like if we give you the work in cybersecurity or computer networking or anything else.
+    Next question was What is your job location preference?: I said to him I don’t have any preference, I am ready to work from anywhere.
+    Do you have any question?: I asked him when will I know the result of this interview whether I am selected or not? Then he explained, there will be more rounds conducted for a higher salaried profile like Senior System Engineer and Power Programmer profile. If you clear those rounds then you will be offered higher compensation for that profile.
+
+My interview lasted for 10 – 12 minutes.
+Summary
+
+To clear the onlin
+
+
+The Infosys Certification program is an examination to test your industry readiness by determining your knowledge in Programming and Databases. What you get by clearing the assessment is a certification that you can flaunt as well as a chance to get interviewed at Infosys on the same day!
+
+If you are wondering what it takes, here’s what:
+
+    To register for the Infosys Certification, you must be a student of B.E., B. Tech, M.E., M. Tech, M.Sc., MCA or MCM, graduating in 2020.
+    You will need to score a minimum of 65% in the examination to get the Infosys Certification.
+    Students who score above 65% in the examination, will be eligible for an on-the-spot interview by Infosys!
+
+My Experience
+
+I have registered the infytq exam on the 25 June 2019(Tuesday) on the Infytq platform provided by Infosys. I have studied consistently all the section of infytq (Python Programming, Object-Oriented Programming, Data Structure, DBMS) with devotion and dedication. Infosys provides a great platform to learn and improve our skillsets. I have taken the infytq exam on 14 August 2019 (Wednesday), at Aeronautical College in Hyderabad.
+
+Round 1: 
+
+It was an online test with 2 hands-on coding problems and 20 MCQ’s (without negative marking) and the total time for the exam was 3 hr. The difficulty level of hands-on programming was intermediate. Mostly MCQ’s are asked on the DBMS and they are challenging enough.
+
+E.g. They will show you 3-4 line query and table and we have find out how rows will be fetched after the execution of that query.
+
+The hands-on section contains 60% weight to clear this section.
+
+Hands-on Coding Question I:- Even-Odd Series
+
+Given a string and it contains the digits as well as non-digits. We have to find the count of non-digits. If it is odd then remove all the non-digits and print the string as in even-odd order.
+
+E.g. The given string is  */24#5%7&9*3@. We have to count the non-digit. It’s 7, odd. Then remove all the digits from the string and output will become (in a string) 254739. In the problem, we have only 2 even and 4 odd numbers then after the even number of completion print the remaining odd numbers.
+
+Hands-on Coding Question I:- Pronic Number
+
+Given a string in which random numbers are present and we have to find the product and the number(one is lesser and one is greater) who already present in the string. Confusing,  Let’s see the example:
+
+E.g. Given a string contains 1203456. The multiplication of 3 and 4(one is lesser and one is greater) product become 12 and it’s present in the string. Like 4 and 5(one is lesser and one is greater) the product is 20 and it’s present in the string and so on. In such a way, We have to find all the numbers and in the output just we have to store the only product in the list like[ ’12’, ’20’].
+
+If we haven’t found the product then print -1.
+
+ 
+
+Round 2: HR interview
+
+HR was a very cool person. Amoung 700 students only 10 are shortlisted for the HR interview. The following point he was asked:
+
+How was your Exam?: It was quite difficult but I work hard to execute the programs. And told him about my preparation.
+
+83.0% is it your first attempt?: Yes. It is my first attempt.
+
+Tell me about your role in the internship?: I have mentioned the internship in my resume and he just goes through it.
+
+Area of Interest: He just wants to know in which area we are interested to work.
+
+Then the usual questions are started like where you came from? What’s your night plan? etc.
+
+My interview lasted for 10 – 12 minutes.
+
+. I remember only one question which was as follows, there was a cricket team where every day a player goes missing .Identify the missing players given the shirt numbers of the players for k days.
+
+irst Round: The first section included 20 MCQ questions.
+
+
+Second Round:This section was Hands-on Coding. It included 2 programming questions. We are rewarded points based on the number of test cases passed on running the program.
+
+The programming questions were challenging.
+
+    The first question asked me to take a string input containing alphabets, numbers and special symbols (say 3$5&^*7264&). Then, I had to count the number of special symbols. The above example has 5 special symbol which is odd, so I had to print an odd number first followed by an even number. The output should only consist of digits.
+    Hint: The output should be 325674.
+    I was asked to take an input say (12630). I had to find out all the numbers in this input which was a multiplication of consecutive numbers. It included 2(1*2), 6(2*3), 12(3*4), 30(5*6).
+
+
+Question: Inverting Bits
+
+You are given an array of size n. Each element in the array is either 0 or 1. You have to perform exactly one operation. In one operation you need to select a subarray and invert all the bits in the subarray. The minimum size of the subarray to be selected is 1 and the maximum size is n.
+
+Print the maximum number of 1s that you can get by doing the operation described above.
+
+[Note: Inversion means changing a 0 to 1 and a 1 to 0]
+n = int(input()) # Number of elements in the array 
+
+arr = list(map(int, input().split())) # Array containing 0s and 1s 
+
+ones_count = [] 
+
+# Use two for loops to creat subarrays 
+for i in range(n): 
+	for j in range(i + 1, n + 1): 
+		
+		# arr[i:j] is a subarray 
+		# The main logic to calculate count of 1s 
+		ones_count.append(arr.count(1)+arr[i:j].count(0)-arr[i:j].count(1)) 
+		
+# finally, maximum of ones_count will be the required answer	 
+print(max(ones_count)) 
+
+
+
+    Programming Fundamentals using Python
+    a. Introduction to Programming
+    b. Algorithms
+    c. Pseudocode
+    d. Control Structures
+    e. Eclipse Plug-in
+    f. Debugging
+    g. Collections
+    h. Functions
+    i. Exception Handling
+    j. Recursion
+    k. Libraries and Functions
+    l. File Handling
+    Object-Oriented Programming Retail
+    a. Introduction
+    b. OOP Basics
+    c. Encapsulation
+    d. Using Objects
+    e. Eclipse tips
+    f. Static
+    g. Relationships
+    h. Inheritance
+    i. Abstract class
+    j. Exception Handling
+    Data Structures and Algorithms
+    a. Introduction to Data Structures
+    b. List Data Structure
+    c. Stack
+    d. Queue
+    e. Non-linear Data structures
+    f. Hashing and hash table
+    g. Search algorithm
+    h. Sort algorithm
+    i. Algorithm technique 
+    Learning DBMS and SQL
+    a. Entities and Relationships diagram
+    b. SQL basics
+    c. DDL statements
+    d. DML statements
+    e. Joins
+    f. Subquery
+    g. Transactions
+    h. Modular query writing
+    i. Normalization
+    j. No SQL databases
+
